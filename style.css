@@ -1,5 +1,5 @@
 h1 {
-  font-color: blue !important;
+  font: blue !important;
   font-family: helvetica;
   font-size: 30px;
 }
